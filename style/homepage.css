@@ -1,0 +1,221 @@
+#m_header .tupi{
+    padding-left: 0.3rem;
+    width: auto;
+    height: 0.5rem;
+    padding-top: 0.12rem;
+}
+#m_header .tupian2{
+    width: 0.3rem;
+    height: 0.3rem;
+    float: right;
+    margin-top: -0.36rem;
+    margin-right: 0.2rem;
+}
+.m_search{
+    height: 0.66rem;
+    width: 100%;
+}
+.swiper-container{
+    width: 100%;
+    height: 3rem;
+    padding-top: 0.2rem;
+}
+.swiper-container .swiper-slide img{
+    width: 100%;
+    max-height: initial !important;
+    max-width: 100%;
+    height: auto;
+}
+.swiper-slide h2{
+    font-size: 0.22rem;
+    padding: 0.11rem 0.19rem 0.5rem 0.19rem;
+    color: white;
+    font-weight: normal;
+}
+
+.dhs{
+    width: 100%;
+    height: 2.4rem;
+    background: #191919 ;
+    padding: 0.3rem 0.12rem;
+    margin-top: 0.2rem;
+}
+.dhs .dwu h2{
+    font-size: 0.3rem;
+    color: white;
+    font-weight: normal;
+    padding-bottom: 0.20rem;
+}
+.dhs .dwu p{
+    font-size: 0.16rem;
+    color: #999999;
+    float: right;
+    margin-top: -0.4rem;
+}
+.dhs .dwu .swiper-container .swiper-wrapper .swiper-slide{
+    width: 100%;
+    height: 0.8rem;
+}
+.dhs .dwu h2 {
+    font-size: 0.18rem;
+    color: white;
+    font-weight: normal;
+}
+
+.zb{
+    width: 96%;
+    height: 0.5rem;
+    margin: auto;
+    margin-top: 0.2rem;
+    background: #191919;
+    border-bottom: 0.01rem solid black;
+}
+.zb p{
+    padding-left: 1rem;
+    color: white;
+    font-size: 0.22rem;
+    margin-top: -0.28rem;
+}
+.zba p{
+    padding-left: 1rem;
+    color: white;
+    font-size: 0.22rem;
+    margin-top: -0.28rem;
+}
+.zba{
+    width: 96%;
+    height: 0.5rem;
+    margin: auto;
+    background: #191919;
+    border-bottom: 0.01rem solid black;
+}
+.tpa{
+    margin-left: 0.3rem;
+    padding-top: 0.1rem;
+}
+.zba1{
+    width: 96%;
+    height: 0.5rem;
+    margin: auto;
+    background: #191919;
+    border-bottom: 0.01rem solid black;
+}
+.zba1 .tpa{
+    margin-left: 0.24rem;
+    padding-top: 0.1rem;
+}
+.zba1 p{
+    padding-left: 1rem;
+    color: white;
+    font-size: 0.22rem;
+    margin-top: -0.28rem;
+}
+.zb1{
+    width: 96%;
+    height: 0.5rem;
+    margin: auto;
+    margin-top: 0.2rem;
+    background: #191919;
+    border-bottom: 0.01rem solid black;
+}
+.zb1 p{
+    padding-left: 0.2rem;
+    color: white;
+    font-size: 0.22rem;
+    margin-top: 0.03rem;
+}
+.zba2{
+    width: 96%;
+    height: 0.5rem;
+    margin: auto;
+    background: #191919;
+    border-bottom: 0.01rem solid black;
+}
+.zba2 p{
+    padding-left: 0.2rem;
+    color: white;
+    font-size: 0.22rem;
+    margin-top: 0.03rem;
+}
+.jiaha p{
+    padding-right: 0.3rem;
+    color: white;
+    font-size: 0.4rem;
+    margin-top: -1rem;
+    float: right;
+}
+.jiaha1 p{
+    padding-right: 0.3rem;
+    color: white;
+    font-size: 0.4rem;
+    margin-top: -0.5rem;
+    float: right;
+}
+.dhjkas img{
+    width: 96%;
+    height: auto;
+    margin: 0.2rem auto ;
+}
+.dhjkas .ziti{
+    width: 96%;
+    height: 0.5rem;
+    background: #191919;
+    margin: auto;
+    margin-top: -0.2rem;
+
+}
+.dhjkas .ziti p{
+    color: white;
+    padding-top: 0.1rem;
+    padding-left: 0.2rem;
+    font-size: 0.2rem;
+}
+.jiantou{
+    margin: 0.5rem auto;
+}
+.xian{
+    border-bottom: 0.01rem solid white;
+    border-top: 0.01rem solid #999999;
+    width: 96%;
+    height: 0.6rem;
+    margin: auto ;
+    margin-top: -0.5rem;
+}
+.xian .weibo{
+    width: 0.3rem;
+    height: 0.3rem;
+    margin-left: 40%;
+    margin-top: 0.14rem;
+
+}
+.xian .wixin{
+    width: 0.5rem;
+    height: 0.3rem;
+    float: right;
+    margin-right: 38%;
+    margin-top: -0.3rem;
+}
+.jiewei li{
+    color: white;
+    font-size: 0.16rem;
+    text-align: center ;
+    line-height: 0.26rem;
+}
+.jiewei .diyi{
+    padding-top: 0.2rem;
+}
+.xian1{
+    border-bottom: 0.01rem solid white;
+    border-top: 0.01rem solid #999999;
+    width: 96%;
+    height: 0.6rem;
+    margin: auto ;
+    margin-top: 0.16rem;
+}
+.xian1 li{
+    color: white;
+    font-size: 0.16rem;
+    text-align: center ;
+    line-height: 0.26rem;
+    padding-top: 0.18rem;
+}
